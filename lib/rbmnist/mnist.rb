@@ -9,11 +9,13 @@ class Rbmnist::MNIST
     def self.load_test
         Test.images
         Test.labels
+        nil
     end
 
     def self.load_train
         Train.images
         Train.labels
+        nil
     end
 
 
