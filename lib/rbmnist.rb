@@ -1,4 +1,4 @@
-require "rbmnist/version"
+require_relative "./rbmnist/version"
 
 require 'byteman'
 require 'rbimg'
