@@ -12,4 +12,4 @@ gem "rbimg", "~> 0.1.4"
 
 gem "pry", "~> 0.13.1", group: :development
 
-gem "gspec", "~> 0.1.3"
+gem "gspec", "~> 0.1.3", group: :development
